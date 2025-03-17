@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development 
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on in Data science
-- 📫 How to reach me stephenkwamesenaya@gmail.com or +233 244216036
+- 📫 How to reach me stephenkwamesenaya@gmail.com or 902 996036
 
 <!---
 SKSenaya/SKSenaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
